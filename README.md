@@ -10,13 +10,13 @@ Os projetos foram desenvolvidos usando o [Bun](https://bun.sh/).
 
 ### Backend
 
-Link: `TODO...`
+Link: (nlw-unite-backend)[nlw-unite-backend]
 
 Possui toda a estrutura de consumo de API. Desenvolvido em Node.js, pude tirar muito proveito de utilizar a biblioteca zod para a validação de dados e o Swagger para criar a referência (ou os documentos) da API, com todas as endpoints documentadas.
 
 ### Frontend
 
-Link: `TODO...`
+Link: (nlw-unite-web)[nlw-unite-web]
 
 Possui o consumo da API para a listagem de participantes dos eventos, trazendo nome completo, email, data de cadastro e data de check-in para o ambiente administrativo. Pude tirar muito proveito de revisar conceitos de React e aplicar melhores técnicas de hooks.
 
